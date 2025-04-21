@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShouldLintHTML>False</ShouldLintHTML>
+    <ShouldLintVue>False</ShouldLintVue>
+    <ShouldLintTypeScriptReact>False</ShouldLintTypeScriptReact>
+    <ShouldLintTypeScript>False</ShouldLintTypeScript>
+    <ShouldLintJavaScriptReact>False</ShouldLintJavaScriptReact>
+    <ShouldLintJavaScript>False</ShouldLintJavaScript>
+    <IsLinterEnabled>False</IsLinterEnabled>
+    <NameOfLastUsedPublishProfile>C:\trembita\CoreWCFDemoServerVER3\CoreWCFDemoServer\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <ActiveDebugProfile>CoreWCFDemoServer</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

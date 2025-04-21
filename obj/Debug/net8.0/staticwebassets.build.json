@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TLYjaV4OdtbzP/l15xJA5n4YNpvvqmGnHVtuScfU2Us=",
+  "Source": "PersonApi_sync_SOAP",
+  "BasePath": "_content/PersonApi_sync_SOAP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
